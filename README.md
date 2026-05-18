@@ -5,6 +5,11 @@
 
 ---
 
+
+#Read through each part once before installations as some programs need to be added to path, so follow this precicely
+
+
+
 ## Prerequisites Overview
 
 | Tool | Purpose |
