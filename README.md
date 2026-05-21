@@ -172,4 +172,4 @@ We will add it later when we reach the face recognition module.
 ## Need Help?
 
 If you hit an error not listed above, paste the **full error message** into the group chat.  
-Don't just say "it doesn't work" — the exact error text is what helps fix it.
+Aryan the Great will help you our or js ask an AI lowkey
